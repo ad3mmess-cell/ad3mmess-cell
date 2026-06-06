@@ -13,6 +13,6 @@ Shellcoding · Python · JavaScript · Assembly · Burp Suite
 
 **Writeups:** [Security-Exploits-Writeups](https://github.com/ad3mmess-cell/Security-Exploits-Writeups)
 
-**LinkedIn:** [LinkedIn](https://www.linkedin.com/in/adem-messoudi-91673b414
+**LinkedIn:** [LinkedIn](https://www.linkedin.com/in/adem-messoudi-91673b414)
 
 > Targeting junior penetration tester roles in GCC region
