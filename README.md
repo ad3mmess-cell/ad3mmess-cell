@@ -1,16 +1,18 @@
-## Hi there 👋
+## Adem Messoudi — Penetration Tester
 
-<!--
-**ad3mmess-cell/ad3mmess-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Self-taught offensive security researcher from Tunisia.
+Focused on web application security and binary exploitation.
 
-Here are some ideas to get you started:
+**Currently working on:**
+- PortSwigger Web Security Academy — Authentication, SQLi, XSS, SSRF
+- pwn.college — Binary exploitation, kernel security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Technical skills:**
+Web attacks · Binary exploitation · ROP chains · Reverse engineering · 
+Shellcoding · Python · JavaScript · Assembly · Burp Suite
+
+**Writeups:** [Security-Exploits-Writeups](https://github.com/ad3mmess-cell/Security-Exploits-Writeups)
+
+**LinkedIn:** [[your linkedin url](https://www.linkedin.com/in/adem-messoudi-91673b414/)]
+
+> Targeting junior penetration tester roles in GCC region
